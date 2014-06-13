@@ -2090,6 +2090,7 @@ void* eglGetComposerANDROID(EGLDisplay dpy, EGLSurface draw)
 {
     return NULL;
 }
+#endif
 
 // ----------------------------------------------------------------------------
 // ANDROID extensions
